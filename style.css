@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #ff7f50;
+}
+canvas {
+  display: block;
+
+}
+
+.one {
+  display:flex;
+  justify-content: flex-start
+}
+
+
+.two {
+  display:flex;
+  justify-content: center
+}
+
+.three {
+  display:flex;
+  justify-content: flex-end
+}
